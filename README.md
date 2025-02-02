@@ -6,7 +6,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/I-Kail-I/I-Kail-I/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/I-Kail-I/I-Kail-I/blob/output/github-snake-dark.svg)
+
 
 ###
 
