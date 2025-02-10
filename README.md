@@ -23,7 +23,7 @@
 <h2 align="center">📌 About Me 📌</h2>
 
 <div>
-  <p><strong>Manusia dari Indonesia🇮🇩</strong></p>
+  <p><strong>Manusia dari Indonesia 🇮🇩</strong></p>
   <p>🗓️ <strong>Coding sejak 2024</strong></p>
   <p>📌 <strong>Tinggal di Indonesia, Makassar</strong></p>
   <p>✨ <strong>Ingin menjadi Batman</strong></p>
