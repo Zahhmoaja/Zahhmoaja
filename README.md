@@ -26,7 +26,7 @@
   <p><strong>Manusia dari Indonesia🇮🇩</strong></p>
   <p>🗓️ <strong>Coding sejak 2024</strong></p>
   <p>📌 <strong>Tinggal di Indonesia, Makassar</strong></p>
-  <p>✨ <strong>Ingin menjadi BetMen</strong></p>
+  <p>✨ <strong>Ingin menjadi Batman</strong></p>
   <br/><br/>
 </div>
 
