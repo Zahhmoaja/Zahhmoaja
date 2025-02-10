@@ -1,71 +1,72 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=This%20Is%20Dapa.;%20Seseorang%20Yang%20Ingin%20Menjadi%20IronMan%20&font=Righteous&center=true&width=900&height=45&color=FFFFFF&vCenter=true&pause=850&size=35" />
+  </a>
+</p>
 
-###
+<p align="center">
+  <a href="https://www.youtube.com/c/DAPICODE?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  <a href="https://www.youtube.com/c/DAPICODE">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://github.com/ThisDapa?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/ThisDapa?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/ThisDapa/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
 
-<h3 align="left">My name is Mikaill and I'm a student, from Makassar.</h3>
+<br/>
 
-###
+<h2 align="center">📌 About Me 📌</h2>
 
-![snake gif](https://github.com/I-Kail-I/I-Kail-I/blob/output/github-snake-dark.svg)
+<div>
+  <p><strong>Manusia dari Indonesia🇮🇩</strong></p>
+  <p>👋 Halo! Saya seorang manusia dari Indonesia yang telah berkecimpung dalam dunia coding sejak 2019. Saya tinggal di Makassar dan Ingin mempelajari hatimu❤️</p>
+  <p>🗓️ <strong>Coding sejak 2019</strong></p>
+  <p>📌 <strong>Tinggal di Indonesia, Makassar</strong></p>
+  <p>✨ <strong>Ingin menjadi IronMan</strong></p>
+  <br/><br/>
+</div>
 
+<h2 align="center">🌐 Sosial Media 🌐</h2>
+<div align="center"> 
+  <a href="mailto:dapicode@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.youtube.com/@DAPICODE" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://thisdapa.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <br/><br/>
+</div>
 
-###
+<h2 align="center">⚒️ Bahasa & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,vscode,github,figma,git,htmx" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,cs,go,lua,ubuntu,tensorflow,discordjs,bun,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,linux,electron,nginx,npm,yarn,opencv,redis,npm,postman,replit,azure,aws,cloudflare,bots" /><br>
+<br/><br/><br/>
+</div>
+
+<h2 align="center">📊 My Stats 📊</h2>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisdapa&show_icons=true&theme=dark" style="display: block; margin: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisdapa&layout=compact&theme=dark" style="display: block; margin: auto;">
+<br/><br/>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=I-Kail-I&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=I-Kail-I&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning SMK TELKOM MAKASSAR<br>🎯 Goals: Become a person who can revolutionize industry<br>🎲 Fun fact: I am the Batman who'll save the code from bug</p>
-
-###
-
-<h2 align="left">I Code With:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h2 align="left">You Can Contact Me With:</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://discord.gg/Kaiil._" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <a href="https://instagram.com/kaiil._" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+</div> 
+<br/>
