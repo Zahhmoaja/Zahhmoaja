@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/DAPICODE?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/I-Kail-I?tab=repositories&sort=stargazers">
@@ -45,7 +43,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,vscode,github,figma,git,htmx" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,cs,go,lua,ubuntu,tensorflow,discordjs,bun,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,cs,go,lua,tensorflow,discordjs,bun,bash" /><br>
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,linux,electron,nginx,npm,yarn,opencv,redis,npm,postman,replit,azure,aws,cloudflare,bots" /><br>
 <br/><br/><br/>
 </div>
